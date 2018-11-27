@@ -1,0 +1,3 @@
+[0113/001904.549:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0113/001904.560:ERROR:exception_snapshot_win.cc(87)] thread ID 9320 not found in process
+[0113/001904.560:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
